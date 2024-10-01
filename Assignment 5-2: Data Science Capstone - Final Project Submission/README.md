@@ -1,7 +1,7 @@
 # CAPSTONE PROJECT #
 # Humanalytics- HR Dashboard Application #
-# DEMO VIDEO: https://youtu.be/WhvVdzYy9QA#
-# DEEP LEARNING MODELS COMPARATIVE ANALYSIS VIDEO: https://youtu.be/T292C93X_uo #
+# DEMO VIDEO: #
+# DEEP LEARNING MODELS COMPARATIVE ANALYSIS VIDEO: be/T292C93X_uo #
 # Technologies & dependencies #
 1.	Python, Streamlit, OpenAI, LangChain_Community
 2.	Testing and Analysis:
