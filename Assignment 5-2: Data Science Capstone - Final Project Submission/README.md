@@ -30,10 +30,9 @@ We have developed an HR analytics dashboard that integrates sentiment analysis t
  Our project utilizes two main datasets: raw data on employee layoffs, including details like names, affected departments, dates, and reasons for termination. The second dataset comprises unstructured textual data from employee tweets, capturing feedback, sentiments, and perceptions related to HR activities.	For the front end, we've used VS Code and Streamlit to enhance accessibility and usability for HR professionals and recruiters.The backend with Python, with Firebase as our database solution. We’ve integrated OpenAI's GPT-3.5 model as a Large Language Model.
 ## The scope of our project is mid-level human resources departments within companies
 
-  ![image](https://github.com/RAMYA19956/Ds_Capstone_Project_5588/assets/144077637/fd2bd364-ec61-472b-abcb-6719eb437348)
+  ![image](
 
   # Assignment 5-1 #
   # Poster
   https://drive.google.com/file/d/1vFC3ERZWB8H-XMbi911iEg0GxXo9aR6z/view
   # Video 
-  Video: https://www.youtube.com/watch?v=T292C93X_uo&feature=yo
